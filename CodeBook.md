@@ -17,15 +17,15 @@ Measurement is the type of measurement observed for the subject and activity
     - t/f
       - t: time domain signals
       - f: fast fourier transformations
---- BodyAcc/GravityAcc
----- BodyAcc: body acceleration
----- GravityAcc: gravity acceleration
---- Jerk
----- derivation of acceleration and velocity to determine Jerk signals
---- Mag
----- magnitude of the 3-dimensional signals using the Euclidean norm
+    - BodyAcc/GravityAcc
+      - BodyAcc: body acceleration
+      - GravityAcc: gravity acceleration
+    - Jerk
+      - derivation of acceleration and velocity to determine Jerk signals
+    - Mag
+      - magnitude of the 3-dimensional signals using the Euclidean norm
 
--- Please refer to the features_info.txt file in the example data for more detail
+  - Please refer to the features_info.txt file in the example data for more detail
 
 
 Mean is the calculated mean for all the trials for the given subject and activity
