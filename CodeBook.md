@@ -13,10 +13,10 @@ Activity is the activity being performed when the measurement was taken
 
 Measurement is the type of measurement observed for the subject and activity
 - Synopsis
-  -- The measurement name is a combination of the observation details
-    --- t/f
-      ---- t: time domain signals
-      ---- f: fast fourier transformations
+  - The measurement name is a combination of the observation details
+    - t/f
+      - t: time domain signals
+      - f: fast fourier transformations
 --- BodyAcc/GravityAcc
 ---- BodyAcc: body acceleration
 ---- GravityAcc: gravity acceleration
