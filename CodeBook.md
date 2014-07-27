@@ -4,12 +4,12 @@ from the original example described in the README.md.
 SubjectId is the identifier of the subject in the trial
 
 Activity is the activity being performed when the measurement was taken
-	-	WALKING
-	-	WALKING_UPSTAIRS
-	-	WALKING_DOWNSTAIRS
-	-	SITTING
-	-	STANDING
-	-	LAYING
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
 
 Measurement is the type of measurement observed for the subject and activity
 	-	Synopsis
